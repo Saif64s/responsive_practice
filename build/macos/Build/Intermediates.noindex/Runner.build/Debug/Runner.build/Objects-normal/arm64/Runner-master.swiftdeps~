@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "c6c167650a6b36a83d82020b03f062ba2079b405dab64a7dc5272f849266c42d"
+build_start_time: [1686311163, 441833000]
+build_end_time: [1686311163, 471619000]
+inputs:
+  "/Users/muntasirmahmudsaif/Developer/flutter-projects/responsivedashboard/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1686311152, 271080494]
+  "/Users/muntasirmahmudsaif/Developer/flutter-projects/responsivedashboard/macos/Runner/AppDelegate.swift": !private [1686311110, 766201051]
+  "/Users/muntasirmahmudsaif/Developer/flutter-projects/responsivedashboard/macos/Runner/MainFlutterWindow.swift": !private [1686311110, 768398918]
